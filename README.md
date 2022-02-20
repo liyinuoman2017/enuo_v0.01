@@ -146,22 +146,15 @@ SysTick_Handler为定时器中断程序，实现时间片轮流改变目标任�
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/8ef932acd481466a8f61ca3a18828ae4.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAbGl5aW51bzIwMTc=,size_20,color_FFFFFF,t_70,g_se,x_16)![在这里插入图片描述](https://img-blog.csdnimg.cn/7efd0da3a7aa4e55b9d2e911b48ba2c9.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAbGl5aW51bzIwMTc=,size_20,color_FFFFFF,t_70,g_se,x_16)
 
-**task_num0和task_num1这两个变量依次自加，代码实现任务轮流切换功能。**
+**task_num0和task_num1这两个变量依次自加，代码实现任务轮流切换功能。
 
-**希望获取源码的朋友们在评论区里留言。
+希望获取源码的朋友们在评论区里留言。
 
 **未完待续…
-
 **实时操作系统系列将持续更新
-
 **创作不易希望朋友们点赞，转发，评论，关注。
-
 **您的点赞，转发，评论，关注将是我持续更新的动力
-
 **作者：李巍
-
 **Github：liyinuoman2017
-
 **CSDN：liyinuo2017
-
 **今日头条：程序猿李巍**
